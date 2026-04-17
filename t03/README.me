@@ -1,0 +1,81 @@
+
+#  Centralització i Gestió Segura de Fitxers per a FoodLogístic
+
+##  Problema Detectat
+
+Amb el creixement del volum de negoci, també ha augmentat considerablement el volum de dades dins de FoodLogístic.
+
+Fins ara, cada departament emmagatzemava la seva documentació **de forma local i aïllada**, provocant:
+
+- Falta de visió global de la informació
+- Duplicació de documents
+- Riscos de pèrdua de dades
+- Dificultats de control i seguretat
+- Manca d’organització i estandardització
+
+Aquest model és insostenible per a una empresa en creixement.
+
+##  Objectiu del Projecte
+
+Implementar una **infraestructura centralitzada de fitxers** que sigui:
+
+-  Segura
+-  Organitzada
+-  Amb control d’espai
+-  Amb gestió d’accessos per departaments
+-  Fàcilment administrable
+
+##  Solució Proposada
+
+La solució es basa en un **servidor de fitxers corporatiu** amb les següents tecnologies de Windows Server:
+
+###  Permisos NTFS i SMB
+
+Per garantir que:
+
+- Cada departament només accedeixi a la seva informació
+- Es defineixin rols clars de lectura, escriptura i modificació
+- Es protegeixin les dades sensibles
+
+###  Quotes de Disc
+
+Per controlar l’ús d’espai:
+
+- Limitant l’espai per departament
+- Evitant la saturació del servidor
+- Fomentant l’ús responsable de l’emmagatzematge
+
+###  FSRM (File Server Resource Manager)
+
+Per aplicar:
+
+- Filtratge de tipus de fitxers no desitjats (ex: vídeos, executables, etc.)
+- Control avançat de l’emmagatzematge
+- Informes d’ús de l’espai
+
+##  Vies d’Administració que Cal Dominar
+
+Per demostrar el domini complet de la infraestructura, la gestió s’haurà de realitzar mitjançant:
+
+1. **Explorador de Fitxers**
+   - Creació de carpetes
+   - Configuració de permisos NTFS
+
+2. **Server Manager**
+   - Instal·lació i configuració de rols
+   - Gestió de FSRM i quotes
+
+3. **PowerShell**
+   - Automatització de tasques
+   - Creació massiva d’estructura
+   - Configuració avançada i replicable
+
+## 🏁 Resultat Esperat
+
+Al final del projecte, FoodLogístic disposarà de:
+
+- Un sistema de fitxers centralitzat i segur
+- Estructura clara per departaments
+- Control total d’accessos i d’espai
+- Infraestructura escalable i professional
+- Documentació i procediments replicables
