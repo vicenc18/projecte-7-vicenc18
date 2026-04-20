@@ -61,3 +61,5 @@ Al final de l’activitat disposarem de:
 - Una demostració real i convincent per a FoodLogístic S.A.
 
 Aquesta prova funcional serà clau per guanyar la confiança del client i assegurar un projecte a llarg termini.
+
+https://vicenc18.github.io/web-corporativa/
