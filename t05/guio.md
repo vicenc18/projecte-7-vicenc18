@@ -271,3 +271,19 @@ La protección de datos es parte de tu trabajo
 - Protege a personas y empresa  
 - Responsabilidad diaria en RRHH
 ``
+
+[]"Text complet del Reglament (UE) 2016/679
+https://eur-lex.europa.eu/legal-content/CA/TXT/?uri=CELEX:32016R0679
+
+Principi de limitació del termini de conservació (Article 5.1.e RGPD)
+https://eur-lex.europa.eu/legal-content/CA/TXT/?uri=CELEX:32016R0679#d1e1885-1-1
+
+Definicions de Responsable i Encarregat (Article 4 RGPD)
+https://eur-lex.europa.eu/legal-content/CA/TXT/?uri=CELEX:32016R0679#d1e1487-1-1
+
+Principis del tractament de dades – Confidencialitat (Article 5 RGPD)
+https://eur-lex.europa.eu/legal-content/CA/TXT/?uri=CELEX:32016R0679#d1e1885-1-1
+
+Drets de les persones interessades (Articles 15 a 22 RGPD)
+https://eur-lex.europa.eu/legal-content/CA/TXT/?uri=CELEX:32016R0679#d1e2573-1-1
+
