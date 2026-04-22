@@ -81,8 +81,3 @@
 ![](img/33.png)
 
 
-## 5. Conclusions
-- Els permisos funcionen segons el grup.
-- Les quotes i filtres limiten correctament l’ús del disc.
-
-📸 **Captura opcional:** Taula resum o prova final.
