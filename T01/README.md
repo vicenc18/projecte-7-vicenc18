@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 1
 =======
 # Proposta de Serveis Informàtics per a FoodLogístic S.A.
